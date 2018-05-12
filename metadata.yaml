@@ -1,0 +1,35 @@
+_repo: Some-Remains--hitherto-unpublished--of-Joseph-Butler-LL.D._20801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Joseph
+    birthdate: 1692
+    deathdate: 1752
+    gutenberg_agent_id: '1116'
+    url: http://www.gutenberg.org/2009/agents/1116
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Butler
+  editor:
+    agent_name: Steere, Edward
+    alias: Steere, E. (Edward)
+    birthdate: 1828
+    deathdate: 1882
+    gutenberg_agent_id: '9528'
+    url: http://www.gutenberg.org/2009/agents/9528
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2007-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20801'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Butler, Joseph, 1692-1752'
+- !lcc 'BX'
+title: Some Remains (hitherto unpublished) of Joseph Butler, LL.D.
+url: http://www.gutenberg.org/ebooks/20801
